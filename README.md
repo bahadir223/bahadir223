@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 💬 Ask me about **Core Java, Lambda,  Git, Github, SQL, HTML, CSS**
+- 💬 Ask me about **Core Java, Lambda,  Git, Github, SQL, JDBC, HTML, CSS**
 
 - 📫 How to reach me **bahadirgunuvar223@gmail.com**
 
