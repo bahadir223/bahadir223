@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadir223&label=Profile%20views&color=0e75b6&style=flat" alt="bahadir223" /> </p>
 <img align="right" alt="Coder GIF" height=250 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-- 🌱 I’m currently learning **HTML - CSS**
+- 🌱 I’m currently learning **Selenium**
 
-- 💬 Ask me about **Core Java, Lambda,  Git, Github, SQL, JDBC, HTML, CSS**
+- 💬 Ask me about **Core Java, Lambda,  Git, Github, SQL, JDBC, HTML, CSS, Selenium**
 
 - 📫 How to reach me **bahadirgunuvar223@gmail.com**
 
