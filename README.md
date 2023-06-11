@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadir223&label=Profile%20views&color=0e75b6&style=flat" alt="bahadir223" /> </p>
 <img align="right" alt="Coder GIF" height=250 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **JUnit**
 
 - 💬 Ask me about **Core Java, Lambda,  Git, Github, SQL, JDBC, HTML, CSS, Selenium**
 
@@ -12,10 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bahadirgunuvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadirgunuvar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21757793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21757793" height="30" width="40" /></a>
-<a href="https://instagram.com/bahadirgunuvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahadirgunuvar" height="30" width="40" /></a>
-<a href="https://medium.com/bahadirgunuvar223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bahadirgunuvar223" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bahadirgunuvar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bahadirgunuvar21" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
