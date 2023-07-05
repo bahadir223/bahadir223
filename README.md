@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JUnit**
 
-- 💬 Ask me about **Core Java, Lambda,  Git, Github, SQL, JDBC, HTML, CSS, Selenium**
+- 💬 Ask me about **Core Java, Lambda,  Git, Github, SQL, JDBC, HTML, CSS, Selenium, JUnit**
 
 - 📫 How to reach me **bahadirgunuvar223@gmail.com**
 
